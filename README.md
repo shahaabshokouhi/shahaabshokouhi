@@ -1,4 +1,3 @@
-## Hi there 👋
 # Shahab Shokouhi
 
 **PhD Candidate in Mechanical Engineering | Robotics & Autonomous Systems**  
